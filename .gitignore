@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# SQLite database file
+monitoring.db
+
+# PyQt5 and system-specific files
+*.swp
+*.bak
+*.idea/
+*.vscode/
+
+# macOS-specific files
+.DS_Store
+
+# Windows-specific files
+Thumbs.db
